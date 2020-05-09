@@ -6,4 +6,4 @@ If you are not registered for the mastermind call, you can do so by filling this
 
 |ID| Topic        | Date           |Status  |
 |--| ------------- |:-------------:| -----:|
-|13| Wordpress Customization and Elementor| May 09, 2020 6:00 PM | Scheduled |
+|13| [Wordpress Customization and Elementor](/sessions/13.md)| May 09, 2020 6:00 PM | Scheduled |
