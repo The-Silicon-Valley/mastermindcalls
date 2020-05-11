@@ -4,6 +4,6 @@ This workspace contains all the topic suggestions and agenda of mastermind calls
 
 If you are not registered for the mastermind call, you can do so by filling this form [here](https://forms.gle/gNonLKvJDGMaXkQf9). To subscribe to the calendar for upcoming mastermind call notifications [click here](https://calendar.google.com/calendar?cid=ODNiczFuNmJrYjRyMGxtbm00OTBvMWVjY3NAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ).
 
-|ID| Topic        | Date           |Status  |
-|--| ------------- |:-------------:| -----:|
-|13| [Wordpress Customization and Elementor](/sessions/13.md)| May 09, 2020 6:00 PM | Scheduled |
+|ID| Topic        | Date           |Status  |Replay|
+|--| ------------- |:-------------:| -----:| -----:|
+|13| [Wordpress Customization and Elementor](/sessions/13.md)| May 09, 2020 6:00 PM | Done |[Watch Replay](https://www.youtube.com/watch?v=EmD7Iwa55EE&feature=youtu.be)|
