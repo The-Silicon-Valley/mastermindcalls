@@ -6,6 +6,6 @@ If you are not registered for the mastermind call, you can do so by filling this
 
 | ID  | Topic                                                    |         Date         | Status |                                                                       Replay |
 | --- | -------------------------------------------------------- | :------------------: | -----: | ---------------------------------------------------------------------------: |
-| 14  | Analog Clock using JavaScript                            | May 16, 2020 6:00 PM |Scheduled |          - |
+| 14  | Analog Clock using JavaScript                            | May 16, 2020 6:00 PM |[Scheduled](https://meet.google.com/smr-cqsk-mku) |          - |
 | 13  | [Wordpress Customization and Elementor](/sessions/13.md) | May 09, 2020 6:00 PM |   Done | [Watch Replay](https://www.youtube.com/watch?v=EmD7Iwa55EE&feature=youtu.be) |
 
